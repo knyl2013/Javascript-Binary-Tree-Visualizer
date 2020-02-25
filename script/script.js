@@ -6,6 +6,8 @@ $( document ).ready(function(){
     $("#jsBtn").addClass("active");
 
     $("#input").val("1,2,3,null,4");
+
+    $("#input").focus();
 });
 
 function parseInputToJavascript() {
