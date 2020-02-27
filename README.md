@@ -13,5 +13,5 @@ For every new value in the input box, a new TreeNode with that value will be add
 <h3>TODO</h3>
 
 <ul>
-  <li>Add more programming languages on text-to-tree</li>  
+  <li>Add Java, C++ on text-to-tree</li>  
 </ul>
